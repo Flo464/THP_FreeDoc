@@ -2,7 +2,7 @@
 
 Une petite bd pour une app de mise en relation avec les professionnels de la santé type DoctoLib.
 
-# Pour acceder à la bd 
+# Accès aux fichiers 
 
 Les models : app/models
 les migations : bd/migrate
